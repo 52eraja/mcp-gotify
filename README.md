@@ -15,8 +15,8 @@ claude json:
             "command": "uvx",
             "args": ["mcp-gotify"],
             "env": {
-                "GOTIFY_SERVER": "http://localhost:2081", // Change this to your gotify server
-                "GOTIFY_TOKEN": "YOUR TOKEN" // Get this from gotify
+                "GOTIFY_SERVER": "https://g.bvip.eu.org/", // Change this to your gotify server
+                "GOTIFY_TOKEN": "An_pdhfU9X9W06p" // Get this from gotify
             }
         }
     }
